@@ -23,8 +23,6 @@ Strong scientific background focused on solving real business problems.
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 ### [Credit Risk Prediction](https://github.com/elemcarames/credit-risk-prediction)
 ML models to predict credit default risk | Python • Scikit-learn • Gradient Boosting | AUC-ROC: 0.87
 
